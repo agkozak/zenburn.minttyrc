@@ -1,6 +1,6 @@
 # Low-Contrast Zenburn Theme for mintty
 # https://github.com/agkozak/zenburn.minttyrc
-BoldAsFont=-1
+BoldAsFont=yes
 
 ForegroundColour=220,220,204
 BackgroundColour=28,28,28
