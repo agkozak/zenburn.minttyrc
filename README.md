@@ -2,7 +2,7 @@
 
 ## Low-Contrast Zenburn
 
-`zenburn-low-contrast.minttyrc` is adapted from [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/konsole/Zenburn.colorscheme) and reflects the sensibilites of the original low-contrast [Zenburn](http://kippura.org/zenburnpage/) Vim color scheme:
+`zenburn-low-contrast.minttyrc` applies the sensibilites of the original low-contrast [Zenburn](http://kippura.org/zenburnpage/) Vim color scheme without disrupting the colors of popular text-based user interfaces such as `aptitude`:
 
 ![Low-Contrast Zenburn mintty color scheme](https://raw.githubusercontent.com/agkozak/zenburn.minttyrc/master/img/zenburn-low-contrast.minttyrc.jpg)
 
